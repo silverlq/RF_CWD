@@ -12,7 +12,7 @@ Random forests (RF) classification of coarse woody debris (CWD) image-objects (s
 
 **Published:** May, 2019
 
-**Input:** CSV table containing rows of image-objects and columns of attributes to be used in training and classification. One of the columns must be called 'ClassID' which will be used as the reference class for training and testing purposes.
+**Input:** CSV table containing rows of image-objects and columns of attributes to be used in training and classification. One of the columns must be called 'ClassID' which will be used as the reference class for training and testing purposes. It is possible to input a second verification table to be used as the testing set.
 			 
 **Description:** Divides an input table into training and testing datasets, trains a Random Forests (RF) classifier using the training dataset and applies it to the testing dataset, assessing the classification accuracy of CWD objects
 
