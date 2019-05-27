@@ -8,6 +8,8 @@ Random forests (RF) classification of coarse woody debris (CWD) image-objects (s
 
 **Reference:** This repository serves as supplementary material to the paper of Queiroz et al. (2019) entitled: "Mapping Coarse Woody Debris with Random Forest Classification of Centimetric Aerial Imagery"
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3233072.svg)](https://doi.org/10.5281/zenodo.3233072)
+
 **License:** MIT
 
 **Created:** October, 2018
